@@ -1,2 +1,2 @@
 # Riemann-sum
-project of C#
+project of C++
